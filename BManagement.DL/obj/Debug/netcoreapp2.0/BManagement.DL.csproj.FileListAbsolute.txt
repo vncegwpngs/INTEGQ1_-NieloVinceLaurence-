@@ -1,0 +1,3 @@
+/Users/vincezoigop/Projects/BManagement/BManagement.DL/obj/Debug/netcoreapp2.0/BManagement.DL.csproj.CoreCompileInputs.cache
+/Users/vincezoigop/Projects/BManagement/BManagement.DL/obj/Debug/netcoreapp2.0/BManagement.DL.AssemblyInfoInputs.cache
+/Users/vincezoigop/Projects/BManagement/BManagement.DL/obj/Debug/netcoreapp2.0/BManagement.DL.AssemblyInfo.cs
